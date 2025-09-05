@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Gabriel  
 
-<!--
-**gabrielDelset/gabrielDelset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 À propos de moi
+- 🎂 25 ans  
+- 🚀 Actuellement en apprentissage de **React** & **Node.js** pour une application web  
+- ⚙️ Passionné aussi par le **C++** & **Qt**, avec un projet perso : *TimeTracker Pro*  
+- 📚 Toujours curieux, j’aime apprendre de nouvelles technos et améliorer mes projets  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Outils
+- **Frontend :** React, HTML, CSS, JavaScript  
+- **Backend :** Node.js, Express  
+- **Base de données :** PostgreSQL  
+- **C++ & Qt :** développement d’applications desktop  
+- **Outils :** Git, GitHub, VS Code  
+
+---
+
+### 📌 Projets
+- 🔹 [TimeTracker Pro](#) – Application en **C++/Qt** pour gérer son temps efficacement  (en cours 🚧)  
+- 🔹 [Timeline](#) – Projet en **React/Node.js** permettant d'ajouter plusieurs événements sur une frise chronologique (en cours 🚧)  
+
+---
+
+### 📫 Me contacter
+- 💼 LinkedIn : www.linkedin.com/in/gabriel-delset
+- 📧 Email : gab.delset@gmail.com
+
+---
+
+✨ Merci d’être passé sur mon profil !  
